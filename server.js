@@ -13,10 +13,6 @@ app.use(
   })
 );
 
-app.get('/', (req, res) => {
-  res.json({ hello: 'there' });
-});
-
 app.listen(4000, () => {
   console.log('Hello from express/graphql');
 });

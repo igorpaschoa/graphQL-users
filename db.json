@@ -1,11 +1,26 @@
 {
   "users": [
-    { "id": "23", "firstName": "John", "age": 20, "companyId": "1" },
-    { "id": "40", "firstName": "Mary", "age": 32, "companyId": "1" },
-    { "id": "100", "firstName": "Joseph", "age": 30, "companyId": "2" }
+    {
+      "firstName": "Kafka Streams",
+      "age": 22,
+      "id": "QrrcLtQ"
+    },
+    {
+      "firstName": "Marcelo",
+      "age": 25,
+      "id": "~DJrvHb"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "IEmpresa" },
-    { "id": "2", "name": "Google", "description": "Search" }
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "IEmpresa"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
+    }
   ]
 }
